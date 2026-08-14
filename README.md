@@ -8,6 +8,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0815-bus-routes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0815-bus-routes/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,8 +43,17 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0815-bus-routes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0815-bus-routes/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 <!---LeetCode Topics End-->
