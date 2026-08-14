@@ -1,2 +1,2 @@
-# neetcode-submissions
-My NeetCode.io problem submissions
+# Leetcode-submissions
+My Leetcode problem submissions
