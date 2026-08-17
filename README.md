@@ -10,6 +10,7 @@ My Leetcode problem submissions
 | [0733-flood-fill](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0815-bus-routes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0815-bus-routes/) | Hard |
+| [0934-shortest-bridge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -23,6 +24,7 @@ My Leetcode problem submissions
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0934-shortest-bridge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0934-shortest-bridge/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +33,7 @@ My Leetcode problem submissions
 | [0733-flood-fill](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0815-bus-routes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0815-bus-routes/) | Hard |
+| [0934-shortest-bridge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -52,6 +55,7 @@ My Leetcode problem submissions
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0934-shortest-bridge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
