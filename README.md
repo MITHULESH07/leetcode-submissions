@@ -28,6 +28,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0886-possible-bipartition](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0886-possible-bipartition/) | Medium |
@@ -40,6 +41,7 @@ My Leetcode problem submissions
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0542-01-matrix/) | Medium |
+| [0684-redundant-connection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0815-bus-routes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0815-bus-routes/) | Hard |
@@ -52,6 +54,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0886-possible-bipartition](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0886-possible-bipartition/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -91,6 +94,7 @@ My Leetcode problem submissions
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0684-redundant-connection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
 | [0886-possible-bipartition](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0886-possible-bipartition/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Shortest Path
