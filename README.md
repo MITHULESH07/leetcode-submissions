@@ -13,6 +13,7 @@ My Leetcode problem submissions
 | [0815-bus-routes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0815-bus-routes/) | Hard |
 | [0934-shortest-bridge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -42,6 +43,7 @@ My Leetcode problem submissions
 | [0886-possible-bipartition](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0886-possible-bipartition/) | Medium |
 | [0934-shortest-bridge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@ My Leetcode problem submissions
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0934-shortest-bridge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
