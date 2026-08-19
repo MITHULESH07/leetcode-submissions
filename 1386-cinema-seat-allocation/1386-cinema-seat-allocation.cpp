@@ -9,8 +9,6 @@ public:
             mp[row[0]].push_back(row[1]);
         }
         for(auto m:mp){
-            cout<<m.first<<endl;
-            // cout<<(m.first-r)*2<<endl;
             ans += (m.first-r-1)*2;
             r = m.first;
             bool a = true;
@@ -23,8 +21,8 @@ public:
                 else if(i==6 || i==7 )c=false;
                 else if(i==8||i==9)d=false;
             } 
-            if(a && b && c && d){cout<<2<<endl;ans+=2;}
-            else if((a && b)||(c && d)||(b && c)){cout<<1<<endl;ans+=1;}
+            if(a && b && c && d){ans+=2;}
+            else if((a && b)||(c && d)||(b && c)){ans+=1;}
         }   
         if(r<n)
             ans+=(n-r)*2;
