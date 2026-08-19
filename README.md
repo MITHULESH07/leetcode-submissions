@@ -17,6 +17,7 @@ My Leetcode problem submissions
 | [0994-rotting-oranges](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -100,6 +101,7 @@ My Leetcode problem submissions
 | [0127-word-ladder](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0815-bus-routes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0815-bus-routes/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -119,6 +121,7 @@ My Leetcode problem submissions
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -178,4 +181,8 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 <!---LeetCode Topics End-->
