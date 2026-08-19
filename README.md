@@ -52,6 +52,7 @@ My Leetcode problem submissions
 | [0994-rotting-oranges](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,10 +102,12 @@ My Leetcode problem submissions
 | [0684-redundant-connection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
 | [0886-possible-bipartition](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0886-possible-bipartition/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +143,8 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
+## K Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 <!---LeetCode Topics End-->
