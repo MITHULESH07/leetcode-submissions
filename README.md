@@ -140,6 +140,7 @@ My Leetcode problem submissions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0127-word-ladder](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
 | [0399-evaluate-division](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0399-evaluate-division/) | Medium |
@@ -165,6 +166,7 @@ My Leetcode problem submissions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0062-unique-paths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
 | [0542-01-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0542-01-matrix/) | Medium |
 | [0741-cherry-pickup](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0741-cherry-pickup/) | Hard |
@@ -210,4 +212,8 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0010-regular-expression-matching/) | Hard |
 <!---LeetCode Topics End-->
