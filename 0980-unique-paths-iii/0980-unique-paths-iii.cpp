@@ -3,12 +3,16 @@ public:
     pair<int,int>start;
     pair<int,int>end;
     int finalMask =0;
+    map<long long,int>mp;
     int n,m;
     int rec(int i,int j ,vector<vector<int>> &grid,int mask){
         
         if(i>=n || j>=m || i<0 || j<0)return 0;
 
-        int ind = i * m + j;
+        long long ind = i * m + j;
+        long long key = (ind<<32) | mask;
+        if(mp.find(key)!=mp.end())return mp[key];
+
         if(mask & (1<<ind))return 0;
         mask = mask | (1 << ind);
 
@@ -25,7 +29,7 @@ public:
             int ny = j + dy[x];
             ans += rec(nx,ny,grid,mask);
         }
-        return ans;
+        return mp[key] = ans;
     }
 
     int uniquePathsIII(vector<vector<int>>& grid) {
