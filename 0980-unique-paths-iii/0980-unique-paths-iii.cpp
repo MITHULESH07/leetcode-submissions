@@ -2,6 +2,7 @@ class Solution {
 public:
     pair<int,int>start;
     pair<int,int>end;
+    int finalMask =0;
     int n,m;
     int rec(int i,int j ,vector<vector<int>> &grid,int mask){
         
@@ -12,7 +13,7 @@ public:
         mask = mask | (1 << ind);
 
         if( i==end.first && j==end.second){
-            if(mask == (1<< n*m)-1) return 1;
+            if(mask == finalMask) return 1;
             return 0;
         }
         
@@ -34,6 +35,7 @@ public:
         for(int i = 0 ; i < n ; i++ ){
             for(int j = 0 ; j < m ; j++){
                 int ind = i * m + j;
+                finalMask = finalMask | (1<<ind);
                 if(grid[i][j]==1){
                     start={i,j};
                 }
