@@ -164,6 +164,7 @@ My Leetcode problem submissions
 | [0433-minimum-genetic-mutation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,4 +275,8 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 <!---LeetCode Topics End-->
