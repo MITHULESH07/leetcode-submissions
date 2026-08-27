@@ -1,12 +1,11 @@
 class Solution {
 public:
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
-        vector<int> prefix,ans;
-        int xr = 0;
         int n = arr.size();
-        for(int i = 0;i<n;i++){
-            xr = xr^arr[i];
-            prefix.push_back(xr);
+        vector<int> prefix(n),ans;
+        prefix[0] = arr[0];
+        for(int i = 1;i<n;i++){
+            prefix[i] = prefix[i-1]^arr[i];
         }
         for(vector<int> &q:queries){
             int l = q[0], r = q[1];
