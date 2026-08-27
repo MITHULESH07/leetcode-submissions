@@ -12,6 +12,7 @@ My Leetcode problem submissions
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0260-single-number-iii/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0399-evaluate-division](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0399-evaluate-division/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0542-01-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0542-01-matrix/) | Medium |
@@ -152,6 +153,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0260-single-number-iii/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0980-unique-paths-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1310-xor-queries-of-a-subarray](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
@@ -164,6 +166,7 @@ My Leetcode problem submissions
 | [0010-regular-expression-matching](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0127-word-ladder](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
+| [0318-maximum-product-of-word-lengths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0399-evaluate-division](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0433-minimum-genetic-mutation/) | Medium |
