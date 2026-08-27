@@ -154,6 +154,7 @@ My Leetcode problem submissions
 | [0260-single-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0260-single-number-iii/) | Medium |
 | [0980-unique-paths-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1310-xor-queries-of-a-subarray](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
