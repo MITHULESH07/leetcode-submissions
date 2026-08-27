@@ -154,6 +154,7 @@ My Leetcode problem submissions
 | [0231-power-of-two](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0260-single-number-iii/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0980-unique-paths-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1310-xor-queries-of-a-subarray](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
@@ -229,6 +230,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
 | [0231-power-of-two](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0231-power-of-two/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [2376-count-special-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2376-count-special-integers/) | Hard |
