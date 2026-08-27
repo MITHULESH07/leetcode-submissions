@@ -155,6 +155,7 @@ My Leetcode problem submissions
 | [0260-single-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0260-single-number-iii/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0397-integer-replacement](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0397-integer-replacement/) | Medium |
 | [0980-unique-paths-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1310-xor-queries-of-a-subarray](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
@@ -197,6 +198,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0062-unique-paths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
+| [0397-integer-replacement](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0397-integer-replacement/) | Medium |
 | [0542-01-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0542-01-matrix/) | Medium |
 | [0741-cherry-pickup](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0741-cherry-pickup/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
@@ -242,6 +244,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0135-candy/) | Hard |
+| [0397-integer-replacement](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0397-integer-replacement/) | Medium |
 | [0402-remove-k-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Simulation
@@ -293,4 +296,8 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0397-integer-replacement](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0397-integer-replacement/) | Medium |
 <!---LeetCode Topics End-->
