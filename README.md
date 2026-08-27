@@ -9,6 +9,7 @@ My Leetcode problem submissions
 | [0074-search-a-2d-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0135-candy](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0135-candy/) | Hard |
+| [0137-single-number-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0137-single-number-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0260-single-number-iii/) | Medium |
@@ -153,6 +154,7 @@ My Leetcode problem submissions
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0260-single-number-iii/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
