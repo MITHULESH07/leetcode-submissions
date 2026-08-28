@@ -129,6 +129,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
+| [0202-happy-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0815-bus-routes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0815-bus-routes/) | Hard |
@@ -237,6 +238,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
+| [0202-happy-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0263-ugly-number/) | Easy |
@@ -328,4 +330,12 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
