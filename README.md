@@ -239,6 +239,7 @@ My Leetcode problem submissions
 | [0062-unique-paths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
 | [0204-count-primes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1012-numbers-with-repeated-digits/) | Hard |
