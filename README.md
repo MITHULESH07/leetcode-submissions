@@ -11,6 +11,7 @@ My Leetcode problem submissions
 | [0135-candy](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0135-candy/) | Hard |
 | [0137-single-number-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0137-single-number-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
+| [0204-count-primes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0260-single-number-iii/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
@@ -236,6 +237,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
+| [0204-count-primes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
@@ -305,4 +307,24 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0397-integer-replacement/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
