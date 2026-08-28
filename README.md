@@ -45,6 +45,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0400-nth-digit](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0400-nth-digit/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -251,6 +252,7 @@ My Leetcode problem submissions
 | [0231-power-of-two](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0400-nth-digit](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0400-nth-digit/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [2376-count-special-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2376-count-special-integers/) | Hard |
