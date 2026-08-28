@@ -1,18 +1,19 @@
 class Solution {
 public:
     int sieve(int n){
-        vector<char>prime(n,'1');
+        bool prime[5000005];
+        memset(prime,true,sizeof(prime));
         int ans = 0;
-        prime = prime ;
+        prime[0] = false;
         prime[1] = false;
         for(int i = 2;i*i<n;i++){
-            if(prime[i]=='1'){
+            if(prime[i]){
                 for(int j = i*i;j<n;j+=i)
-                    prime[j] = '0';
+                    prime[j] = false;
             }
         }
         for(int i = 2;i<n;i++){
-            ans += (prime[i]=='1');
+            ans += (prime[i]);
         }
         return ans;
     }
