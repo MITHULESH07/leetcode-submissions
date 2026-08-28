@@ -30,6 +30,7 @@ My Leetcode problem submissions
 | [1091-shortest-path-in-binary-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1310-xor-queries-of-a-subarray](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -80,6 +81,7 @@ My Leetcode problem submissions
 | [0934-shortest-bridge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -102,6 +104,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -118,11 +121,13 @@ My Leetcode problem submissions
 | [0980-unique-paths-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 ## Hash Table
@@ -144,6 +149,7 @@ My Leetcode problem submissions
 | [0399-evaluate-division](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0399-evaluate-division/) | Medium |
 | [0684-redundant-connection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
 | [0886-possible-bipartition](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0886-possible-bipartition/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -151,6 +157,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0399-evaluate-division/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 ## Bit Manipulation
@@ -339,4 +346,8 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
+## 0-1 BFS
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 <!---LeetCode Topics End-->
