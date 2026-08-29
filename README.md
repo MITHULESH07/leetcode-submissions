@@ -37,6 +37,7 @@ My Leetcode problem submissions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -101,6 +102,7 @@ My Leetcode problem submissions
 | [0886-possible-bipartition](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0886-possible-bipartition/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +251,7 @@ My Leetcode problem submissions
 | [0406-queue-reconstruction-by-height](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
