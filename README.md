@@ -267,6 +267,7 @@ My Leetcode problem submissions
 | [0371-sum-of-two-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0400-nth-digit](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0400-nth-digit/) | Medium |
 | [0507-perfect-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
+| [0858-mirror-reflection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0858-mirror-reflection/) | Medium |
 | [0878-nth-magical-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0878-nth-magical-number/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1012-numbers-with-repeated-digits/) | Hard |
@@ -347,6 +348,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
+| [0858-mirror-reflection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0858-mirror-reflection/) | Medium |
 | [1201-ugly-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1201-ugly-number-iii/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -384,6 +386,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0858-mirror-reflection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0858-mirror-reflection/) | Medium |
 | [1201-ugly-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1201-ugly-number-iii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Bézout's Lemma
@@ -397,6 +400,7 @@ My Leetcode problem submissions
 ## Least Common Multiple
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0858-mirror-reflection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0858-mirror-reflection/) | Medium |
 | [0878-nth-magical-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0878-nth-magical-number/) | Hard |
 | [1201-ugly-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1201-ugly-number-iii/) | Medium |
 ## Inclusion-Exclusion Principle
@@ -408,4 +412,8 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1492-the-kth-factor-of-n/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0858-mirror-reflection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0858-mirror-reflection/) | Medium |
 <!---LeetCode Topics End-->
