@@ -265,6 +265,7 @@ My Leetcode problem submissions
 | [0365-water-and-jug-problem](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0400-nth-digit](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0400-nth-digit/) | Medium |
+| [0507-perfect-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1201-ugly-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1201-ugly-number-iii/) | Medium |
