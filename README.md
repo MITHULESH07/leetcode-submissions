@@ -49,6 +49,7 @@ My Leetcode problem submissions
 | [0240-search-a-2d-matrix-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0400-nth-digit](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0400-nth-digit/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0878-nth-magical-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0878-nth-magical-number/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1201-ugly-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1201-ugly-number-iii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -266,6 +267,7 @@ My Leetcode problem submissions
 | [0371-sum-of-two-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0400-nth-digit](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0400-nth-digit/) | Medium |
 | [0507-perfect-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
+| [0878-nth-magical-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0878-nth-magical-number/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1201-ugly-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1201-ugly-number-iii/) | Medium |
@@ -395,10 +397,12 @@ My Leetcode problem submissions
 ## Least Common Multiple
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0878-nth-magical-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0878-nth-magical-number/) | Hard |
 | [1201-ugly-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1201-ugly-number-iii/) | Medium |
 ## Inclusion-Exclusion Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0878-nth-magical-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0878-nth-magical-number/) | Hard |
 | [1201-ugly-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1201-ugly-number-iii/) | Medium |
 ## Prime Factorization
 | Problem Name | Difficulty |
