@@ -18,6 +18,7 @@ My Leetcode problem submissions
 | [0318-maximum-product-of-word-lengths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0399-evaluate-division](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0399-evaluate-division/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0525-contiguous-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0542-01-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0542-01-matrix/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
@@ -148,6 +149,7 @@ My Leetcode problem submissions
 | [0202-happy-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0525-contiguous-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0815-bus-routes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0815-bus-routes/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -337,6 +339,7 @@ My Leetcode problem submissions
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
