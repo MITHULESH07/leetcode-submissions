@@ -1,12 +1,12 @@
 class Solution {
 public:
-    int dp[101][101][201];
+    int dp[101][101];
     string s1,s2,s3;
     int n,m;
     bool rec(int i,int j,int k){
         if(i == n && j == m)return true;
         if(s3[k]!=s1[i] && s3[k]!=s2[j])return false;
-        if(dp[i][j][k]!=-1)return dp[i][j][k];
+        if(dp[i][j]!=-1)return dp[i][j];
         bool ans = false;
         if(i<n && s1[i] == s3[k]){
             ans = ans || rec(i+1,j,k+1);
@@ -14,7 +14,7 @@ public:
         if(j<m && s2[j] == s3[k]){
             ans = ans || rec(i,j+1,k+1);
         }
-        return dp[i][j][k] = ans;
+        return dp[i][j] = ans;
     }
     bool isInterleave(string s1, string s2, string s3) {
         this->s1 = s1;
