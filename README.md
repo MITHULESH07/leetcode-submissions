@@ -32,6 +32,7 @@ My Leetcode problem submissions
 | [0994-rotting-oranges](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -56,6 +57,7 @@ My Leetcode problem submissions
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1201-ugly-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1201-ugly-number-iii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Matrix
@@ -206,6 +209,7 @@ My Leetcode problem submissions
 | [0433-minimum-genetic-mutation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Bidirectional Search
@@ -262,6 +266,7 @@ My Leetcode problem submissions
 | [0406-queue-reconstruction-by-height](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Math
@@ -437,4 +442,8 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 <!---LeetCode Topics End-->
