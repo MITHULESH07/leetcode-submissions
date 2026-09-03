@@ -18,6 +18,7 @@ My Leetcode problem submissions
 | [0260-single-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0260-single-number-iii/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0399-evaluate-division](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0399-evaluate-division/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0525-contiguous-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
@@ -120,6 +121,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0264-ugly-number-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
@@ -155,6 +157,7 @@ My Leetcode problem submissions
 | [0127-word-ladder](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
 | [0202-happy-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0264-ugly-number-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0525-contiguous-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -271,6 +274,7 @@ My Leetcode problem submissions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -320,6 +324,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +456,7 @@ My Leetcode problem submissions
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -464,4 +470,12 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0051-n-queens/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
