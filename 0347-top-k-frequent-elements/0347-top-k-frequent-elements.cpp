@@ -1,9 +1,6 @@
 class Solution {
 public:
     using PII = pair<int,int>;
-    static bool comp(const PII & a,const PII & b){
-        return b.second < a.second ;
-    }
     vector<int> topKFrequent(vector<int>& nums, int k) {
         unordered_map<int,int>mp;
         vector<PII>vec;
@@ -14,7 +11,9 @@ public:
         for(auto & m : mp){
             vec.push_back({m.first,m.second});
         }
-        sort(vec.begin(),vec.end(),comp);
+        sort(vec.begin(),vec.end(),[](const PII & a, const PII & b){
+            return a.second > b.second;
+        });
         for(auto & m : vec){
             k--;
             ans.push_back(m.first);
