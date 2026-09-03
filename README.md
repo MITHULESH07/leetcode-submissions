@@ -7,6 +7,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0051-n-queens](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0135-candy](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0135-candy/) | Hard |
@@ -230,6 +231,7 @@ My Leetcode problem submissions
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0980-unique-paths-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0980-unique-paths-iii/) | Hard |
 ## Dynamic Programming
@@ -455,4 +457,8 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
