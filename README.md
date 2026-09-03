@@ -163,6 +163,7 @@ My Leetcode problem submissions
 | [0525-contiguous-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
+| [0763-partition-labels](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0763-partition-labels/) | Medium |
 | [0815-bus-routes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0815-bus-routes/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -216,6 +217,7 @@ My Leetcode problem submissions
 | [0402-remove-k-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
+| [0763-partition-labels](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0763-partition-labels/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -317,6 +319,7 @@ My Leetcode problem submissions
 | [0334-increasing-triplet-subsequence](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0397-integer-replacement](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0397-integer-replacement/) | Medium |
 | [0402-remove-k-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
+| [0763-partition-labels](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0763-partition-labels/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -404,6 +407,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0202-happy-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0763-partition-labels](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0763-partition-labels/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
