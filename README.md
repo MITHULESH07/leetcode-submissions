@@ -206,6 +206,7 @@ My Leetcode problem submissions
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0097-interleaving-string/) | Medium |
 | [0127-word-ladder](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0399-evaluate-division](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
@@ -233,6 +234,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0051-n-queens](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0980-unique-paths-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0980-unique-paths-iii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -240,6 +242,7 @@ My Leetcode problem submissions
 | [0010-regular-expression-matching](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0062-unique-paths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
 | [0097-interleaving-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0097-interleaving-string/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0264-ugly-number-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0397-integer-replacement](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0397-integer-replacement/) | Medium |
 | [0542-01-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0542-01-matrix/) | Medium |
