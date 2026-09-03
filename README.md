@@ -160,6 +160,7 @@ My Leetcode problem submissions
 | [0264-ugly-number-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0525-contiguous-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
@@ -216,6 +217,7 @@ My Leetcode problem submissions
 | [0399-evaluate-division](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0763-partition-labels](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0763-partition-labels/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
@@ -366,6 +368,7 @@ My Leetcode problem submissions
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Prefix Sum
