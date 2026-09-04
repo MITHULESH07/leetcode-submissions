@@ -8,6 +8,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0051-n-queens](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0051-n-queens/) | Hard |
+| [0056-merge-intervals](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0135-candy](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0135-candy/) | Hard |
@@ -279,6 +280,7 @@ My Leetcode problem submissions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
@@ -498,4 +500,8 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
