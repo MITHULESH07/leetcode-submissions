@@ -360,6 +360,7 @@ My Leetcode problem submissions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0155-min-stack/) | Medium |
 | [0402-remove-k-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -491,6 +492,7 @@ My Leetcode problem submissions
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0155-min-stack/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
