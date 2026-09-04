@@ -7,6 +7,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0041-first-missing-positive/) | Hard |
 | [0051-n-queens](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -156,6 +157,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0041-first-missing-positive/) | Hard |
 | [0127-word-ladder](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
 | [0202-happy-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0264-ugly-number-ii/) | Medium |
