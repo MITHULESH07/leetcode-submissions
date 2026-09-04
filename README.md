@@ -283,6 +283,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
+| [0148-sort-list](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
@@ -334,6 +335,7 @@ My Leetcode problem submissions
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Recursion
@@ -413,6 +415,7 @@ My Leetcode problem submissions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 | [0202-happy-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0763-partition-labels](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0763-partition-labels/) | Medium |
@@ -467,6 +470,7 @@ My Leetcode problem submissions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -506,4 +510,8 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
