@@ -16,16 +16,11 @@ public:
         while(p1 && p2){
             if(p1->val <= p2->val){
                 tail->next = p1;
-                ListNode* temp = p1->next;
-                p1->next = NULL;
-                p1 = temp;
+                p1 = p1->next;
             }
             else{
                 tail->next = p2;
-                ListNode* temp = p2->next;
-                p2->next = NULL;
-                p2 = temp;
-                
+                p2 = p2->next;
             }
             tail = tail->next;
         }
