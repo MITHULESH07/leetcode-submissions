@@ -225,6 +225,7 @@ My Leetcode problem submissions
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0763-partition-labels](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0763-partition-labels/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -261,6 +262,7 @@ My Leetcode problem submissions
 | [0542-01-matrix](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0542-01-matrix/) | Medium |
 | [0741-cherry-pickup](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0741-cherry-pickup/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
