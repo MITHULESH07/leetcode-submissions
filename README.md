@@ -318,6 +318,7 @@ My Leetcode problem submissions
 | [1492-the-kth-factor-of-n](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2376-count-special-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2376-count-special-integers/) | Hard |
+| [3870-count-commas-in-range](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3870-count-commas-in-range/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
