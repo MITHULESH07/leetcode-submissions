@@ -11,12 +11,11 @@
  */
 class Solution {
 public:
-    using PII = pair<int,int>;
     int ans = 0;
-    PII checkAvg(TreeNode* root){
+    pair<int,int> checkAvg(TreeNode* root){
         if(!root)return {0,0};
-        PII left = checkAvg(root->left);
-        PII right = checkAvg(root->right);
+        auto left = checkAvg(root->left);
+        auto right = checkAvg(root->right);
         int sum = left.first + right.first + root->val;
         int node = left.second + right.second + 1;
         if(sum/node == root->val){
