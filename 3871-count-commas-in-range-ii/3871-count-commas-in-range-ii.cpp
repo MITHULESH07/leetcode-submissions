@@ -6,7 +6,6 @@ public:
         long long i;
         for(i = 1000; i <= n; i*=1000  ){
             ans += (n-i+1);
-            cout<<n-i+1<<endl;
         }
         return ans;
     }
