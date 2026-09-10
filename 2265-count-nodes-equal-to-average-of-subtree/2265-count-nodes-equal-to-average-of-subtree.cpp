@@ -15,19 +15,14 @@ public:
     int ans = 0;
     PII checkAvg(TreeNode* root){
         if(!root)return {0,0};
-        PII left_subtree = checkAvg(root->left);
-        PII right_subtree = checkAvg(root->right);
-        int left_sum = left_subtree.first;
-        int left_nodes = left_subtree.second;
-        int right_sum = right_subtree.first;
-        int right_nodes = right_subtree.second;
-        int total_sum = left_sum + right_sum + root->val;
-        int total_nodes = left_nodes + right_nodes + 1;
-        int avg = (total_sum / total_nodes);
-        if(avg == root->val){
+        PII left = checkAvg(root->left);
+        PII right = checkAvg(root->right);
+        int sum = left.first + right.first + root->val;
+        int node = left.second + right.second + 1;
+        if(sum/node == root->val){
             ans++;
         } 
-        return {total_sum , total_nodes};
+        return {sum , node};
     }
     int averageOfSubtree(TreeNode* root) {
         checkAvg(root);
