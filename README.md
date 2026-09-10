@@ -79,6 +79,7 @@ My Leetcode problem submissions
 | [0886-possible-bipartition](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0886-possible-bipartition/) | Medium |
 | [0934-shortest-bridge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0934-shortest-bridge/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -356,6 +357,7 @@ My Leetcode problem submissions
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -520,4 +522,8 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0148-sort-list/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 <!---LeetCode Topics End-->
