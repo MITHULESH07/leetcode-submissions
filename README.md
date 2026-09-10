@@ -161,6 +161,7 @@ My Leetcode problem submissions
 | [0001-two-sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0041-first-missing-positive/) | Hard |
 | [0127-word-ladder](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
+| [0146-lru-cache](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0202-happy-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -480,6 +481,7 @@ My Leetcode problem submissions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Counting
@@ -510,6 +512,7 @@ My Leetcode problem submissions
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0155-min-stack/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Data Stream
@@ -529,4 +532,8 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
