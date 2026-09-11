@@ -7,6 +7,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0018-4sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0041-first-missing-positive/) | Hard |
 | [0051-n-queens](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
@@ -291,6 +292,7 @@ My Leetcode problem submissions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -430,6 +432,7 @@ My Leetcode problem submissions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0148-sort-list](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 | [0202-happy-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
