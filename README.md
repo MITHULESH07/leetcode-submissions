@@ -317,6 +317,7 @@ My Leetcode problem submissions
 | [0371-sum-of-two-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0400-nth-digit](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0400-nth-digit/) | Medium |
 | [0507-perfect-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0858-mirror-reflection/) | Medium |
 | [0878-nth-magical-number](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0878-nth-magical-number/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
@@ -484,6 +485,7 @@ My Leetcode problem submissions
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0858-mirror-reflection/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
