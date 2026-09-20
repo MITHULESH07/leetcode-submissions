@@ -326,6 +326,7 @@ My Leetcode problem submissions
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1201-ugly-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1201-ugly-number-iii/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2376-count-special-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2376-count-special-integers/) | Hard |
@@ -493,6 +494,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0858-mirror-reflection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0858-mirror-reflection/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
