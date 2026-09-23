@@ -45,6 +45,7 @@ My Leetcode problem submissions
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
@@ -66,6 +67,7 @@ My Leetcode problem submissions
 | [1201-ugly-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1201-ugly-number-iii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +180,7 @@ My Leetcode problem submissions
 | [0815-bus-routes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0815-bus-routes/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -404,6 +407,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -411,6 +415,7 @@ My Leetcode problem submissions
 | [0525-contiguous-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
