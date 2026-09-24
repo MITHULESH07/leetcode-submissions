@@ -73,6 +73,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0365-water-and-jug-problem/) | Medium |
@@ -93,6 +94,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0127-word-ladder](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
@@ -384,6 +386,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0437-path-sum-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -514,6 +517,7 @@ My Leetcode problem submissions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0146-lru-cache](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
@@ -564,6 +568,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0437-path-sum-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Doubly-Linked List
