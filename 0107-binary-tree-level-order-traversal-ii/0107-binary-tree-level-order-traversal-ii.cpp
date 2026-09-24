@@ -15,11 +15,9 @@ public:
         if(!root)return {};
         queue<TreeNode*>q;
         q.push(root);
-        stack<vector<int>>st;
         vector<vector<int>>ans;
         while(!q.empty()){
             vector<int>curr;
-            cout<<q.size()<<" ";
             int n = q.size();
             for(int i = 0; i < n;i++){
                 TreeNode* node = q.front();
@@ -32,12 +30,9 @@ public:
                     q.push(node->right);
                 }
             }
-            st.push(curr);
+            ans.push_back(curr);
         }
-        while(!st.empty()){
-            ans.push_back(st.top());
-            st.pop();
-        }
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
