@@ -2,7 +2,7 @@ class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
         string ans ="", word = "";
-        map<string,string>know;
+        unordered_map<string,string>know;
         bool braces = false;
         for(int i = 0; i < knowledge.size();i++){
             know[knowledge[i][0]] = knowledge[i][1]; 
