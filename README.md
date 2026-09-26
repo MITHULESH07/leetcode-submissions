@@ -47,6 +47,7 @@ My Leetcode problem submissions
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
@@ -188,6 +189,7 @@ My Leetcode problem submissions
 | [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -247,6 +249,7 @@ My Leetcode problem submissions
 | [0940-distinct-subsequences-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
