@@ -233,6 +233,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0020-valid-parentheses](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -410,6 +411,7 @@ My Leetcode problem submissions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0155-min-stack/) | Medium |
 | [0402-remove-k-digits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -587,5 +589,6 @@ My Leetcode problem submissions
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
