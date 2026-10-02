@@ -234,6 +234,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -271,6 +272,7 @@ My Leetcode problem submissions
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -280,6 +282,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
 | [0097-interleaving-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -590,5 +593,6 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
