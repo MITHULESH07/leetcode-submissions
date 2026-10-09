@@ -74,6 +74,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
@@ -408,6 +409,7 @@ My Leetcode problem submissions
 | [0102-binary-tree-level-order-traversal](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
@@ -598,6 +600,7 @@ My Leetcode problem submissions
 | [0102-binary-tree-level-order-traversal](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
