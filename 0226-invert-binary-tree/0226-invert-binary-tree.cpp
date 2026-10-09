@@ -13,9 +13,9 @@ class Solution {
 public:
     void rec(TreeNode* root){
         if(root==NULL)return;
+        swap(root->left,root->right);
         rec(root->left);
         rec(root->right);
-        swap(root->left,root->right);
         return; 
     }
     TreeNode* invertTree(TreeNode* root) {
