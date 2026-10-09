@@ -19,6 +19,7 @@ My Leetcode problem submissions
 | [0204-count-primes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0260-single-number-iii/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -394,6 +395,7 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0148-sort-list](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -427,10 +429,12 @@ My Leetcode problem submissions
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -586,6 +590,7 @@ My Leetcode problem submissions
 | [0146-lru-cache](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0155-min-stack/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0307-range-sum-query-mutable](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -642,4 +647,8 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
