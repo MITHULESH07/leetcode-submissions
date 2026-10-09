@@ -77,6 +77,7 @@ My Leetcode problem submissions
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0399-evaluate-division](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -100,6 +101,7 @@ My Leetcode problem submissions
 | [0127-word-ladder](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0365-water-and-jug-problem](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0399-evaluate-division](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0399-evaluate-division/) | Medium |
@@ -405,6 +407,7 @@ My Leetcode problem submissions
 | [0102-binary-tree-level-order-traversal](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -593,6 +596,7 @@ My Leetcode problem submissions
 | [0102-binary-tree-level-order-traversal](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Doubly-Linked List
