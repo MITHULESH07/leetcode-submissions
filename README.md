@@ -96,6 +96,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0127-word-ladder](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
@@ -405,6 +406,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -594,6 +596,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0226-invert-binary-tree/) | Easy |
