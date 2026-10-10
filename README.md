@@ -77,6 +77,7 @@ My Leetcode problem submissions
 | [0079-word-search](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -301,6 +302,7 @@ My Leetcode problem submissions
 | [0062-unique-paths](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
 | [0097-interleaving-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0264-ugly-number-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0337-house-robber-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0337-house-robber-iii/) | Medium |
@@ -417,6 +419,7 @@ My Leetcode problem submissions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -614,6 +617,7 @@ My Leetcode problem submissions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -658,5 +662,6 @@ My Leetcode problem submissions
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0337-house-robber-iii/) | Medium |
 <!---LeetCode Topics End-->
