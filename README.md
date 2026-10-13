@@ -58,6 +58,7 @@ My Leetcode problem submissions
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,6 +348,7 @@ My Leetcode problem submissions
 | [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,6 +391,7 @@ My Leetcode problem submissions
 | [0763-partition-labels](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0763-partition-labels/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
