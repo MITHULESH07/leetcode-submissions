@@ -52,6 +52,7 @@ My Leetcode problem submissions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -203,6 +204,7 @@ My Leetcode problem submissions
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -440,11 +442,13 @@ My Leetcode problem submissions
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
