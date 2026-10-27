@@ -281,6 +281,7 @@ My Leetcode problem submissions
 | [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -385,6 +386,7 @@ My Leetcode problem submissions
 | [1492-the-kth-factor-of-n](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2376-count-special-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2376-count-special-integers/) | Hard |
+| [2409-count-days-spent-together](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3870-count-commas-in-range](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Combinatorics
