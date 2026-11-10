@@ -60,6 +60,7 @@ My Leetcode problem submissions
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -334,6 +335,7 @@ My Leetcode problem submissions
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2376-count-special-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2376-count-special-integers/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
