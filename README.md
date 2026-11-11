@@ -98,6 +98,7 @@ My Leetcode problem submissions
 | [0684-redundant-connection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -129,6 +130,7 @@ My Leetcode problem submissions
 | [0684-redundant-connection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -167,6 +169,7 @@ My Leetcode problem submissions
 | [0264-ugly-number-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0743-network-delay-time](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
@@ -195,6 +198,7 @@ My Leetcode problem submissions
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -232,6 +236,7 @@ My Leetcode problem submissions
 | [0210-course-schedule-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0399-evaluate-division/) | Medium |
 | [0684-redundant-connection](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0886-possible-bipartition](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0886-possible-bipartition/) | Medium |
@@ -243,6 +248,7 @@ My Leetcode problem submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0399-evaluate-division/) | Medium |
+| [0743-network-delay-time](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0743-network-delay-time/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
