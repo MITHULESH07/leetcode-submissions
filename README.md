@@ -393,6 +393,7 @@ My Leetcode problem submissions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2376-count-special-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2376-count-special-integers/) | Hard |
 | [2409-count-days-spent-together](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Combinatorics
@@ -412,6 +413,7 @@ My Leetcode problem submissions
 | [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
