@@ -303,6 +303,7 @@ My Leetcode problem submissions
 | [2409-count-days-spent-together](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Bidirectional Search
 | Problem Name | Difficulty |
@@ -351,6 +352,7 @@ My Leetcode problem submissions
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2376-count-special-integers](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2376-count-special-integers/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Topological Sort
@@ -559,6 +561,7 @@ My Leetcode problem submissions
 | [0295-find-median-from-data-stream](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0763-partition-labels](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0763-partition-labels/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
