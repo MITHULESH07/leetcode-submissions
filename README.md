@@ -53,6 +53,7 @@ My Leetcode problem submissions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2368-reachable-nodes-with-restrictions](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -386,6 +387,7 @@ My Leetcode problem submissions
 | [1235-maximum-profit-in-job-scheduling](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1268-search-suggestions-system](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Math
@@ -433,6 +435,7 @@ My Leetcode problem submissions
 | [0763-partition-labels](https://github.com/MITHULESH07/leetcode-submissions/tree/main/0763-partition-labels/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/MITHULESH07/leetcode-submissions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/MITHULESH07/leetcode-submissions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/MITHULESH07/leetcode-submissions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Simulation
